@@ -20,7 +20,7 @@
                 android:id="@+id/textView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextView" />
+                android:text="@string/texto_coca" />
 
             <ImageView
                 android:id="@+id/imageView6"
@@ -32,7 +32,7 @@
                 android:id="@+id/textView7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextView" />
+                android:text="@string/texto_fanta" />
 
             <ImageView
                 android:id="@+id/imageView7"
@@ -44,7 +44,7 @@
                 android:id="@+id/textView8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextView" />
+                android:text="@string/texto_sprite" />
 
             <ImageView
                 android:id="@+id/imageView8"
